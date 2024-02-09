@@ -1,0 +1,12 @@
+html{
+    background-color: white;
+}
+body {
+    font-size: 22px;
+    color: black;
+    background-color: white;
+}
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
